@@ -1,0 +1,5794 @@
+{
+  "cc_bins": [
+    {
+      "id": "1",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "413226",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "2",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "444676",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "3",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "444677",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "4",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "444678",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "5",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "454671",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "6",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "454672",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "7",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "454673",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "8",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "534981",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "9",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "540130",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "10",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "540134",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "11",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "541001",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "12",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "541033",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "13",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "542374",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "14",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "547287",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "15",
+      "bank_code": "10",
+      "bank_name": "ZİRAAT BANKASI",
+      "bin_number": "676124",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "16",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "113012",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "17",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "415514",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "18",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "415515",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "19",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "421030",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "20",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "440776",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "21",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "447505",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "22",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "492094",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "23",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "492095",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "24",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "498852",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "25",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "499821",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "26",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "510056",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "27",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "521378",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "28",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "528208",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "29",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "540284",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "30",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "540435",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "31",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "543039",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "32",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "543081",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "33",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "552879",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "34",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "588843",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "35",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "589072",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "36",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "639001",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "37",
+      "bank_code": "12",
+      "bank_name": "T. HALK BANKASI A.Ş.",
+      "bin_number": "676258",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "38",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "1500",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "39",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "111264",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "40",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "113015",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "41",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "402940",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "42",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "409084",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "43",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "411724",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "44",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "411942",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "45",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "411943",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "46",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "411944",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "47",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "411979",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "48",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "415792",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "49",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "416757",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "50",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "428945",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "51",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "493840",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "52",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "493841",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "53",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "493846",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "54",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "520017",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "55",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "540045",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "56",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "540046",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "57",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "542119",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "58",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "542798",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "59",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "542804",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "60",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "547244",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "61",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "552101",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "62",
+      "bank_code": "15",
+      "bank_name": "T. VAKIFLAR BANKASI T.A.O",
+      "bin_number": "589311",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "63",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "113032",
+      "card_type": "creditcard",
+      "organization": "CUP",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "64",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "402458",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "65",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "402459",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "66",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "406015",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "67",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "427707",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "68",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "440247",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "69",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "440273",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "70",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "440293",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "71",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "440294",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "72",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "440295",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "73",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "459026",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "74",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "479227",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "75",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "489495",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "76",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "489496",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "77",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "510138",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "78",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "510139",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "79",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "510221",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "80",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "512803",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "81",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "519780",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "82",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "524346",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "83",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "524839",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "84",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "524840",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "85",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "528920",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "86",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "530853",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "87",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "545124",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "88",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "547985",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "89",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "553090",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "90",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "606329",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "91",
+      "bank_code": "32",
+      "bank_name": "TÜRK EKONOMİ BANKASI A.Ş.",
+      "bin_number": "676578",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "92",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "425669",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "93",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "432072",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "94",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "435508",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "95",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "435509",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "96",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "512754",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "97",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "520932",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "98",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "521807",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "99",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "522489",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "100",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "524347",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "101",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "552608",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "102",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "552609",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "103",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "553056",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "104",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "557113",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "105",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "557829",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "106",
+      "bank_code": "46",
+      "bank_name": "AKBANK T.A.Ş",
+      "bin_number": "589004",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "107",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "403836",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "108",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "411156",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "109",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "411157",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "110",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "411158",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "111",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "411159",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "112",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "411160",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "113",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "423833",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "114",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "433383",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "115",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "433384",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "116",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "459068",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "117",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "494063",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "118",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "494064",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "119",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "521394",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "120",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "521827",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "121",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "525404",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "122",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "530866",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "123",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "539703",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "124",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "547311",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "125",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "549208",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "126",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "549394",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "127",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "589713",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "128",
+      "bank_code": "59",
+      "bank_name": "ŞEKERBANK T.A.Ş.",
+      "bin_number": "676832",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "129",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "148569",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "130",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "374421",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "131",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "374422",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "132",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "374424",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "133",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "374425",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "1",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "134",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "374426",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "1",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "135",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "374427",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "136",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375622",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "137",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375623",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "138",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375624",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "139",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375625",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "140",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375626",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "141",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375627",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "142",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375628",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "143",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375629",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "144",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "375631",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "145",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "377137",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "146",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "401738",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "147",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "403280",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "148",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "403666",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "149",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "404308",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "150",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "405051",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "151",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "405090",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "152",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "409219",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "153",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "410141",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "154",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "413836",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "155",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "420556",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "156",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "420557",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "157",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "426886",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "158",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "426887",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "159",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "426888",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "160",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "426889",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "161",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "427314",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "162",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "427315",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "163",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "428220",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "164",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "428221",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "165",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "428967",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "166",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "428968",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "167",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "432154",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "168",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "448472",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "169",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "461668",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "170",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "462274",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "171",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "467293",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "172",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "467294",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "173",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "467295",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "174",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "474151",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "175",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "479323",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "176",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "479324",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "177",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "482489",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "178",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "482490",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "179",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "482491",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "180",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "487074",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "181",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "487075",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "182",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "489455",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "183",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "489478",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "184",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "490175",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "185",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "492186",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "186",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "492187",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "187",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "492193",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "188",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "493845",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "189",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "514915",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "190",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "516943",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "191",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "516961",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "192",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "517040",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "193",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "517041",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "194",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "517042",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "195",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "517048",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "196",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "517049",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "197",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "520097",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "198",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "520922",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "199",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "520940",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "200",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "520988",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "201",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "521824",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "202",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "521825",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "203",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "521832",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "204",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "522204",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "205",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "524659",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "206",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "526955",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "207",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "528939",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "208",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "528956",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "209",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "533169",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "210",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "534261",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "211",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540036",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "212",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540037",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "213",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540118",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "214",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540226",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "215",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540227",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "216",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540669",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "217",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "540709",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "218",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "541815",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "219",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "541858",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "220",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "541865",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "221",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "542030",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "222",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "543738",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "223",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "544078",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "224",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "544294",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "225",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "545102",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "226",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "546001",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "227",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "548935",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "228",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "552095",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "229",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "553130",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "230",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "554796",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "231",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "554960",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "232",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "557023",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "233",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "558699",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "234",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "589318",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "235",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "600208",
+      "card_type": "debit",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "236",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "602970",
+      "card_type": "creditcard",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "237",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "603480",
+      "card_type": "creditcard",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "238",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "603492",
+      "card_type": "creditcard",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "239",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "603614",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "240",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "605036",
+      "card_type": "debit",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "241",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "622403",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "242",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "637074",
+      "card_type": "creditcard",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "243",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "642010",
+      "card_type": "creditcard",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "244",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "642011",
+      "card_type": "creditcard",
+      "organization": "GARANTI",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "245",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "670606",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "246",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "676255",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "247",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "676283",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "248",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "676650",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "249",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "676651",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "250",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "676827",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "251",
+      "bank_code": "62",
+      "bank_name": "T. GARANTİ BANKASI A.Ş.",
+      "bin_number": "724365",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "252",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "113064",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "253",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "154318",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "254",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "418342",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "255",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "418343",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "256",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "418344",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "257",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "418345",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "258",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "441076",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "259",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "450803",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "260",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "454314",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "261",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "454318",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "262",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "454358",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "263",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "454359",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "264",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "454360",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "265",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "510152",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "266",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "540667",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "267",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "540668",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "268",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "543771",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "269",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "552096",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "270",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "589283",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "271",
+      "bank_code": "64",
+      "bank_name": "T. İŞ BANKASI A.Ş.",
+      "bin_number": "603125",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "272",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "401622",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "273",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "404809",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "274",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "413382",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "275",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "414392",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "276",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "442106",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "277",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "446212",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "278",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "450634",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "279",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "455359",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "280",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "479794",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "281",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "479795",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "282",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "490983",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "283",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "491205",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "284",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "491206",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "285",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "492128",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "286",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "492130",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "287",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "492131",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "288",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "494314",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "289",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "510054",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "290",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "540061",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "291",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "540062",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "292",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "540063",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "293",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "540122",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "294",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "540129",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "295",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "542117",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "296",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "545103",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "297",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "552645",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "298",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "552659",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "299",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "603797",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "300",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "639004",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "301",
+      "bank_code": "67",
+      "bank_name": "YAPI VE KREDİ BANKASI A.Ş.",
+      "bin_number": "676166",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "302",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "402142",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "303",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "404315",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "304",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "427308",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "305",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "438040",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "306",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "447503",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "307",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "450918",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "308",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "525314",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "309",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "542259",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "310",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "545148",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "311",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "549998",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "312",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "550449",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "313",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "552207",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "314",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "676123",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "315",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "676406",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "316",
+      "bank_code": "71",
+      "bank_name": "T. DIŞ TİCARET BANKASI A.Ş.",
+      "bin_number": "677451",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "317",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "426391",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "318",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "450050",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "319",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "450051",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "320",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "508129",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "321",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "521376",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "322",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "544127",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "323",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "544445",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "324",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "544460",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "325",
+      "bank_code": "92",
+      "bank_name": "CITIBANK N.A. TÜRKİYE",
+      "bin_number": "549220",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "326",
+      "bank_code": "96",
+      "bank_name": "TURKISHBANK A.Ş.",
+      "bin_number": "419389",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "327",
+      "bank_code": "96",
+      "bank_name": "TURKISHBANK A.Ş.",
+      "bin_number": "518599",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "328",
+      "bank_code": "96",
+      "bank_name": "TURKISHBANK A.Ş.",
+      "bin_number": "529939",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "329",
+      "bank_code": "96",
+      "bank_name": "TURKISHBANK A.Ş.",
+      "bin_number": "552098",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "330",
+      "bank_code": "96",
+      "bank_name": "TURKISHBANK A.Ş.",
+      "bin_number": "589288",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "331",
+      "bank_code": "96",
+      "bank_name": "TURKISHBANK A.Ş.",
+      "bin_number": "677522",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "332",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "400684",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "333",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "408579",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "334",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "414070",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "335",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "420322",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "336",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "420323",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "337",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "420324",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "338",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "455571",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "339",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "480296",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "340",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "490805",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "341",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "490806",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "342",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "490807",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "343",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "510151",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "344",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "526973",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "345",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "532443",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "346",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "540024",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "347",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "540025",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "348",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "542029",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "349",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "542605",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "350",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "542965",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "351",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "542967",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "352",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "547765",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "353",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "548819",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "354",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "550074",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "355",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "554297",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "356",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "554570",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "357",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "603322",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "358",
+      "bank_code": "99",
+      "bank_name": "ING BANK",
+      "bin_number": "676402",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "359",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "468973",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "360",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "517601",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "361",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "518679",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "362",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "522075",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "363",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "522566",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "364",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "522576",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "365",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "527765",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "366",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "534913",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "367",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "543624",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "368",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "559056",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "369",
+      "bank_code": "103",
+      "bank_name": "BANKEUROPA BANKASI A.S.",
+      "bin_number": "603343",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "370",
+      "bank_code": "108",
+      "bank_name": "MNG BANK A.Ş.",
+      "bin_number": "548375",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "371",
+      "bank_code": "108",
+      "bank_name": "MNG BANK A.Ş.",
+      "bin_number": "603005",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "372",
+      "bank_code": "108",
+      "bank_name": "MNG BANK A.Ş.",
+      "bin_number": "676429",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "373",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "413729",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "374",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "413972",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "375",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "445988",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "376",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "456057",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "377",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "456059",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "378",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "514025",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "379",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "521875",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "380",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "527080",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "381",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "545769",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "382",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "545770",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "383",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "558634",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "384",
+      "bank_code": "109",
+      "bank_name": "TEKSTİLBANK A.Ş.",
+      "bin_number": "589416",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "385",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "402277",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "386",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "402563",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "387",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "403032",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "388",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "403082",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "389",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "404952",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "390",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "406386",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "391",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "407814",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "392",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "409364",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "393",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "410147",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "394",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "413583",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "395",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "414388",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "396",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "415565",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "397",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "422376",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "398",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "423277",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "399",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "423398",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "400",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "427311",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "401",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "435653",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "402",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "441007",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "403",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "444029",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "404",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "499852",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "405",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "499853",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "406",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "519324",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "407",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "521022",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "408",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "521836",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "409",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "545120",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "410",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "545616",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "411",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "545847",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "412",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "547800",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "413",
+      "bank_code": "111",
+      "bank_name": "FİNANSBANK A.Ş.",
+      "bin_number": "601050",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "414",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "405903",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "415",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "405913",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "416",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "405917",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "417",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "405918",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "418",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "405919",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "419",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "409071",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "420",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "422629",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "421",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "424909",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "422",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "428240",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "423",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "496019",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "424",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "510005",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "425",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "512651",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "426",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "519399",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "427",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "521045",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "428",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "522054",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "429",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "525413",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "430",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "525795",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "431",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "540643",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "432",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "542254",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "433",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "545183",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "434",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "550472",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "435",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "550473",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "436",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "552143",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "437",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "556030",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "438",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "556031",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "439",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "556033",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "440",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "556034",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "441",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "556665",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "442",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "676401",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "443",
+      "bank_code": "123",
+      "bank_name": "HSBC BANK A.Ş.",
+      "bin_number": "677193",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "444",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "466280",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "445",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "466281",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "446",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "466282",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "447",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "466283",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "448",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "516308",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "449",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "516458",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "450",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "522221",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "451",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "544836",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "452",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "558485",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "453",
+      "bank_code": "124",
+      "bank_name": "ALTERNATİF BANK A.Ş.",
+      "bin_number": "627768",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "454",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "424407",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "455",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "483013",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "456",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "491373",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "457",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "491374",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "458",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "498516",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "459",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "498517",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "460",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "498518",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "461",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "498519",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "462",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "498520",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "463",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "523759",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "464",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "543943",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "465",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "543944",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "466",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "545863",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "467",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "547680",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "468",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "548202",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "469",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "548434",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "470",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "554034",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "471",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "558379",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "1",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "472",
+      "bank_code": "125",
+      "bank_name": "TEKFEN BANK A.Ş.",
+      "bin_number": "589298",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "473",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "113134",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "474",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "370001",
+      "card_type": "creditcard",
+      "organization": "AMEX",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "475",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "403134",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "476",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "404990",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "477",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "408625",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "478",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "409070",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "479",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "411924",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "480",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "423667",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "481",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "424360",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "482",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "424361",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "483",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "441139",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "484",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "460345",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "485",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "460346",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "486",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "460347",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "487",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "462276",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "488",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "465574",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "489",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "472914",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "490",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "483747",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "491",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "489456",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "492",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "489457",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "493",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "489458",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "494",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "510063",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "495",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "510118",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "496",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "510119",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "497",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "512017",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "498",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "512117",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "499",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "514924",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "500",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "515865",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "501",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "516740",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "502",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "517047",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "503",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "520019",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "504",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "520303",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "505",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "520909",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "506",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "543358",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "507",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "543400",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "508",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "543427",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "509",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "546764",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "510",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "554483",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "511",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "558514",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "512",
+      "bank_code": "134",
+      "bank_name": "DENİZ BANK A.Ş.",
+      "bin_number": "601912",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "513",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "425846",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "514",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "425847",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "515",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "425848",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "516",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "425849",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "517",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "441341",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "518",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "522240",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "519",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "522241",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "520",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "554301",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "521",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "558593",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "522",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "603072",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "523",
+      "bank_code": "135",
+      "bank_name": "ANADOLU BANK A.Ş.",
+      "bin_number": "676460",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "524",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "417715",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "525",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "417716",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "526",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "432284",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "527",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "432285",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "528",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "527234",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "529",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "534264",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "530",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "547234",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "531",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "548232",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "532",
+      "bank_code": "203",
+      "bank_name": "ALBARAKAR TÜRK ÖZEL FİNANS KURUMU A.Ş.",
+      "bin_number": "677397",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "533",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "402589",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "534",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "402590",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "535",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "402591",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "536",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "402592",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "537",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "403360",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "538",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "403810",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "539",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "410555",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "540",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "410556",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "541",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "424487",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "542",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "431024",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "543",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "512595",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "544",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "518896",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "545",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "520180",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "546",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "525312",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "547",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "547564",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "548",
+      "bank_code": "205",
+      "bank_name": "KUVEYT TÜRK EVKAF FİNANS KURUMU",
+      "bin_number": "677055",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "549",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "411685",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "550",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "428462",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "551",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "435627",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "552",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "435628",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "553",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "435629",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "554",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "490808",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "555",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "512360",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "556",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "521848",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "557",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "528293",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "558",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "537719",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "559",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "549294",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "560",
+      "bank_code": "206",
+      "bank_name": "TFKB",
+      "bin_number": "627161",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "561",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "402275",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "562",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "402276",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "563",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "402280",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "564",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "407112",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "565",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "407381",
+      "card_type": "debit",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "566",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "416987",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "567",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "441033",
+      "card_type": "creditcard",
+      "organization": "VISA",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "568",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "515849",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "569",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "524384",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "570",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "527585",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "571",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "529462",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "572",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "531334",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "573",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "552529",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "574",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "627462",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "575",
+      "bank_code": "208",
+      "bank_name": "ASYA FINANS KURUMU",
+      "bin_number": "677131",
+      "card_type": "debit",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "0"
+    },
+    {
+      "id": "576",
+      "bank_code": "900",
+      "bank_name": "AKK TURİZM VE TİCARET A.Ş.",
+      "bin_number": "512446",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "577",
+      "bank_code": "900",
+      "bank_name": "AKK TURİZM VE TİCARET A.Ş.",
+      "bin_number": "539605",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "578",
+      "bank_code": "900",
+      "bank_name": "AKK TURİZM VE TİCARET A.Ş.",
+      "bin_number": "549938",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1"
+    },
+    {
+      "id": "579",
+      "bank_code": "900",
+      "bank_name": "AKK TURİZM VE TİCARET A.Ş.",
+      "bin_number": "554566",
+      "card_type": "creditcard",
+      "organization": "MASTER",
+      "is_commercial_card": "0",
+      "is_support_installment": "1);"
+    }
+  ]
+}
