@@ -2,6 +2,6 @@
 Türkiye bankaları için kredi kartı bin listesi
 
 
-Bin listesi 15.10.2015 tarihinde oluşturulmuştur. 
+Bin listesi 20.01.2016 tarihinde günceldir.
 
 Kartın debit(ön ödemeli)/kredi kartı, taksit uyumlu olup olmadığı, kurumsal kart olup olmadığı bilgilerini içerir.
